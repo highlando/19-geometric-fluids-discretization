@@ -5,7 +5,7 @@ layout: index
 Seminar - <br> Geometric formulations of inviscid fluids and their discretization <br> - OvGU - 2019
 -----
 
-Lecturer:[Jan Heiland](http://janheiland.de), [Christian Lessig](http://graphics.cs.uni-magdeburg.de/)
+Lecturer: [Jan Heiland](http://janheiland.de), [Christian Lessig](http://graphics.cs.uni-magdeburg.de/)
 
 This seminar in the [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052)
 
