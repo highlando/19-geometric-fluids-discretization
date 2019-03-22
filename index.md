@@ -19,8 +19,8 @@ Consultation hours: Please make an appointment by email.
 
 ### Variational formulation of ideal fluid
 
-Develop variational formulation of ideal fluid, possibly including from the general perspective of Euler-Poincare reduction
-  
+Develop the variational formulation of ideal fluids, possibly including from the general perspective of Euler-Poincare reduction.
+
 :orange_book: V. I. Arnold, *Mathematical Methods of Classical Mechanics*, Second. ed. Springer, 1989 (Appendix A).
 
 :orange_book: J. E. Marsden and T. S. Ratiu, *Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems*, Third ed. New York: Springer-Verlag, 1999.
@@ -28,7 +28,7 @@ Develop variational formulation of ideal fluid, possibly including from the gene
 
 ### Hamiltonian formulation of ideal fluid
 
-Develop Hamiltonian formulation of ideal fluid dynamics, including conserved quantities in 2D and 3D
+Develop the Hamiltonian formulation of ideal fluid dynamics, including conserved quantities in 2D and 3D.
 
 :page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983.
 
@@ -37,9 +37,9 @@ Develop Hamiltonian formulation of ideal fluid dynamics, including conserved qua
 
 ### Algebraic, structure preserving numerical method for ideal fluid dynamics
 
-Math: Develop the discretization of the 2D ideal fluid proposed by Zeitlin based on the work by Hoppe
+Theory: Develop the discretization of the 2D ideal fluid proposed by Zeitlin based on the work by Hoppe.
 
-CS: Develop an implementation of the algorithm proposed by Zeitlin
+Implementation: Develop an implementation of the algorithm proposed by Zeitlin, as done by McLachlan [1993].
 
 :page_facing_up: V. Y. Zeitlin, *Finite-mode analogs of 2D ideal hydrodynamics: Coadjoint orbits and local canonical structure,* Phys. D Nonlinear Phenom., vol. 49, no. 3, pp. 353–362, Apr. 1991.
 
@@ -52,9 +52,9 @@ CS: Develop an implementation of the algorithm proposed by Zeitlin
 
 ### Madelung transform
 
-Develop the Madelung transform as a hydrodynamical model for quantum mechanics, with an emphasis on the geometric perspective as a momentum map
+Develop the Madelung transform as a hydrodynamical model for the Schrödinger equation, with an emphasis on the geometric perspective as a momentum map that connects it to compressible fluid dynamics.
 
-Optional: connection to [Chern et al. 2016]
+Optional: Also develop the onnection to the work by [Chern et al. 2016].
 
 :page_facing_up: D. Fusca, *The Madelung transform as a momentum map,* J. Geom. Mech., vol. 9, no. 2, pp. 157–165, 2017.,
 
@@ -69,7 +69,7 @@ Optional: connection to [Chern et al. 2016]
 
 ### Spectral, structure preserving integrator for ideal fluid dynamics
 
-Develop an implementation of the algorithm proposed by Liu et al. 2015
+Develop an implementation of the algorithm proposed by Liu et al. [2015].
 
 :page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983.
 
@@ -78,9 +78,9 @@ Develop an implementation of the algorithm proposed by Liu et al. 2015
 
 ### Variational, structure preserving numerical integrator for arbitrary meshes
 
-Math: Develop the variational structure preserving integrator proposed by Pavlov et al., possibly including the extensions in Gawlik
+Theory: Develop the variational structure preserving integrator proposed by Pavlov et al. [2011], possibly including the extensions in Gawlik et al. [2011].
 
-CS: Implement the algorithm presented by Mullen et al. (2D, on a regular grid or using PyDec)
+Implementation: Implement the algorithm presented by Mullen et al. (2D, on a regular grid or using PyDec).
 
 :page_facing_up: E. S. Gawlik, P. Mullen, D. Pavlov, J. E. Marsden, and M. Desbrun, *Geometric, variational discretization of continuum theories,* Phys. D Nonlinear Phenom., vol. 240, no. 21, pp. 1724–1760, Oct. 2011.
 
@@ -91,6 +91,6 @@ CS: Implement the algorithm presented by Mullen et al. (2D, on a regular grid or
 
 ### Vorticity-based, structure preserving discretization of fluids
 
-Develop an implementation of the technique proposed by Elcott et al.
+Develop an implementation of the technique proposed by Elcott et al. [2007]
 
 :page_facing_up: S. Elcott, Y. Tong, E. Kanso, P. Schröder, and M. Desbrun, *Stable, Circulation-Preserving, Simplicial Fluids,* ACM Trans. Graph., vol. 26, no. 1, 2007.
