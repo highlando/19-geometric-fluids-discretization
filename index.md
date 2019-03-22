@@ -78,6 +78,7 @@ Develop an implementation of the algorithm proposed by Liu et al. 2015
 ### Variational, structure preserving numerical integrator for arbitrary meshes
 
 Math: Develop the variational structure preserving integrator proposed by Pavlov et al., possibly including the extensions in Gawlik
+
 CS: Implement the algorithm presented by Mullen et al. (2D, on a regular grid or using PyDec)
 
 :page_facing_up: E. S. Gawlik, P. Mullen, D. Pavlov, J. E. Marsden, and M. Desbrun, *Geometric, variational discretization of continuum theories,* Phys. D Nonlinear Phenom., vol. 240, no. 21, pp. 1724–1760, Oct. 2011.
