@@ -5,6 +5,8 @@ layout: index
 Seminar - <br> Geometric formulations of inviscid fluids and their discretization <br> - OvGU - 2019
 -----
 
+Lecturer:[Jan Heiland](http://janheiland.de), [Christian Lessig](http://graphics.cs.uni-magdeburg.de/)
+
 This seminar in the [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052)
 
 | Day | Time | Place |
@@ -19,7 +21,7 @@ Consultation hours: Please make an appointment by email.
 
 ### Variational formulation of ideal fluid
 
-Develop the variational formulation of ideal fluids, possibly including from the general perspective of Euler-Poincare reduction.
+Develop the variational formulation of ideal fluid dynamics, possibly including from the general perspective of Euler-Poincare reduction.
 
 :orange_book: V. I. Arnold, *Mathematical Methods of Classical Mechanics*, Second. ed. Springer, 1989 (Appendix A).
 
@@ -37,9 +39,9 @@ Develop the Hamiltonian formulation of ideal fluid dynamics, including conserved
 
 ### Algebraic, structure preserving numerical method for ideal fluid dynamics
 
-Theory: Develop the discretization of the 2D ideal fluid proposed by Zeitlin based on the work by Hoppe.
+Theory: Develop the discretization of 2D ideal fluid dynamics proposed by Zeitlin based on the work by Hoppe.
 
-Implementation: Develop an implementation of the algorithm proposed by Zeitlin, as done by McLachlan [1993].
+Implementation: Develop an implementation of the algorithm proposed by Zeitlin, as done by McLachlan.
 
 :page_facing_up: V. Y. Zeitlin, *Finite-mode analogs of 2D ideal hydrodynamics: Coadjoint orbits and local canonical structure,* Phys. D Nonlinear Phenom., vol. 49, no. 3, pp. 353–362, Apr. 1991.
 
@@ -54,7 +56,7 @@ Implementation: Develop an implementation of the algorithm proposed by Zeitlin, 
 
 Develop the Madelung transform as a hydrodynamical model for the Schrödinger equation, with an emphasis on the geometric perspective as a momentum map that connects it to compressible fluid dynamics.
 
-Optional: Also develop the onnection to the work by [Chern et al. 2016].
+Optional: Also develop the connection to the work by [Chern et al. 2016].
 
 :page_facing_up: D. Fusca, *The Madelung transform as a momentum map,* J. Geom. Mech., vol. 9, no. 2, pp. 157–165, 2017.,
 
