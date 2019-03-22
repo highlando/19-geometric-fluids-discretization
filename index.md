@@ -5,10 +5,11 @@ layout: index
 Seminar - <br> Geometric formulations of inviscid fluids and their discretization <br> - OvGU - 2019
 -----
 
+This seminar in the [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052)
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
-| Wednesday | 11:00-13:00 | tba |
+| Wednesday | 11:00-13:00 | G05-122 |
 
 Consultation hours: Please make an appointment by email.
 
