@@ -103,7 +103,7 @@ Develop an implementation of the technique proposed by Elcott et al. [2007]
 
 :orange_book: J. E. Marsden, [Lectures on Mechanics](https://authors.library.caltech.edu/21546/1/lom.pdf), Cambridge University Press, 1992.
 
-:orange_book: J. E. Marsden and T. S. Ratiu, Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems, third ed., New York: Springer-Verlag, 1999.
+:orange_book: J. E. Marsden and T. S. Ratiu, *Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems*, third ed., New York: Springer-Verlag, 1999.
 
 :orange_book: D. D. Holm, T. Schmah, and C. Stoica, [Geometric Mechanics and Symmetry: From Finite to Infinite Dimensions](http://wwwf.imperial.ac.uk/~dholm/classnotes/GMS-FinalMar09.pdf), Oxford University Press, 2009.
 
