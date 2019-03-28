@@ -21,7 +21,7 @@ Consultation hours: Please make an appointment by email.
 
 ### Variational formulation of ideal fluid
 
-Develop the variational formulation of ideal fluid dynamics, possibly including from the general perspective of Euler-Poincare reduction.
+Develop the variational formulation of ideal fluid dynamics, possibly including the general perspective of Euler-Poincare reduction.
 
 :orange_book: V. I. Arnold, *Mathematical Methods of Classical Mechanics*, Second. ed. Springer, 1989 (Appendix A).
 
@@ -32,7 +32,7 @@ Develop the variational formulation of ideal fluid dynamics, possibly including 
 
 Develop the Hamiltonian formulation of ideal fluid dynamics, including conserved quantities in 2D and 3D.
 
-:page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983.
+:page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983. [pdf](http://www.cds.caltech.edu/~marsden/bib/1983/05-MaWe1983/MaWe1983.pdf)
 
 :orange_book: V. I. Arnold and B. A. Khesin, Topological Methods in Hydrodynamics. New York: Springer, 1998.
 
@@ -49,7 +49,7 @@ Implementation: Develop an implementation of the algorithm proposed by Zeitlin, 
 
 :page_facing_up: S. J. Rankin, *SU(∞) and the large-N limit,* Ann. Phys. (N. Y)., vol. 218, no. 1, pp. 14–50, Aug. 1992.
 
-:page_facing_up: R. I. McLachlan, *Explicit Lie-Poisson integration and the Euler equations,* Phys. Rev. Lett., vol. 71, no. 19, pp. 3043–3046, Nov. 1993.
+:page_facing_up: R. I. McLachlan, *Explicit Lie-Poisson integration and the Euler equations,* Phys. Rev. Lett., vol. 71, no. 19, pp. 3043–3046, Nov. 1993. [pdf](https://arxiv.org/abs/chao-dyn/9304011)
 
 
 ### Madelung transform
@@ -58,7 +58,7 @@ Develop the Madelung transform as a hydrodynamical model for the Schrödinger eq
 
 Optional: Also develop the connection to the work by [Chern et al. 2016].
 
-:page_facing_up: D. Fusca, *The Madelung transform as a momentum map,* J. Geom. Mech., vol. 9, no. 2, pp. 157–165, 2017.,
+:page_facing_up: D. Fusca, *The Madelung transform as a momentum map,* J. Geom. Mech., vol. 9, no. 2, pp. 157–165, 2017. [pdf](https://arxiv.org/abs/1512.04611)
 
 :page_facing_up: E. Madelung, *Quantentheorie in hydrodynamischer Form,* Zeitschrift für Phys., vol. 40, no. 3–4, pp. 322–326, Mar. 1927.
 
@@ -73,9 +73,9 @@ Optional: Also develop the connection to the work by [Chern et al. 2016].
 
 Develop an implementation of the algorithm proposed by Liu et al. [2015].
 
-:page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983.
+:page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983. [pdf](http://www.cds.caltech.edu/~marsden/bib/1983/05-MaWe1983/MaWe1983.pdf)
 
-:page_facing_up: T. de Witt, C. Lessig, and E. Fiume, *Fluid Simulation Using Laplacian Eigenfunctions,* ACM Trans. Graph., vol. 31, no. 1, pp. 1–11, Jan. 2012.
+:page_facing_up: T. de Witt, C. Lessig, and E. Fiume, *Fluid Simulation Using Laplacian Eigenfunctions,* ACM Trans. Graph., vol. 31, no. 1, pp. 1–11, Jan. 2012. [pdf](http://www.dgp.toronto.edu/~tyler/fluids/FluidDynamicsLaplacianEigenfunctions.pdf)
 
 
 ### Variational, structure preserving numerical integrator for arbitrary meshes
@@ -84,7 +84,7 @@ Theory: Develop the variational structure preserving integrator proposed by Pavl
 
 Implementation: Implement the algorithm presented by Mullen et al. (2D, on a regular grid or using PyDec).
 
-:page_facing_up: E. S. Gawlik, P. Mullen, D. Pavlov, J. E. Marsden, and M. Desbrun, *Geometric, variational discretization of continuum theories,* Phys. D Nonlinear Phenom., vol. 240, no. 21, pp. 1724–1760, Oct. 2011.
+:page_facing_up: E. S. Gawlik, P. Mullen, D. Pavlov, J. E. Marsden, and M. Desbrun, *Geometric, variational discretization of continuum theories,* Phys. D Nonlinear Phenom., vol. 240, no. 21, pp. 1724–1760, Oct. 2011. [pdf](https://arxiv.org/abs/1010.4851)
 
 :page_facing_up: D. Pavlov, P. Mullen, Y. Tong, E. Kanso, J. E. Marsden, and M. Desbrun, *Structure-preserving discretization of incompressible fluids,* Phys. D Nonlinear Phenom., vol. 240, no. 6, pp. 443–458, Mar. 2011.
 
@@ -95,7 +95,7 @@ Implementation: Implement the algorithm presented by Mullen et al. (2D, on a reg
 
 Develop an implementation of the technique proposed by Elcott et al. [2007]
 
-:page_facing_up: S. Elcott, Y. Tong, E. Kanso, P. Schröder, and M. Desbrun, *Stable, Circulation-Preserving, Simplicial Fluids,* ACM Trans. Graph., vol. 26, no. 1, 2007.
+:page_facing_up: S. Elcott, Y. Tong, E. Kanso, P. Schröder, and M. Desbrun, *Stable, Circulation-Preserving, Simplicial Fluids,* ACM Trans. Graph., vol. 26, no. 1, 2007. [pdf](www.geometry.caltech.edu/pubs/ETKSD07.pdf)
 
 ## General literature
 
