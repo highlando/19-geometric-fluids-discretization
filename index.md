@@ -17,7 +17,7 @@ Consultation hours: Please make an appointment by email.
 
 
 
-## Topics and Literature
+## Topics
 
 ### Variational formulation of ideal fluid
 
@@ -96,3 +96,17 @@ Implementation: Implement the algorithm presented by Mullen et al. (2D, on a reg
 Develop an implementation of the technique proposed by Elcott et al. [2007]
 
 :page_facing_up: S. Elcott, Y. Tong, E. Kanso, P. Schröder, and M. Desbrun, *Stable, Circulation-Preserving, Simplicial Fluids,* ACM Trans. Graph., vol. 26, no. 1, 2007.
+
+## General literature
+
+:orange_book: V. I. Arnold, *Mathematical Methods of Classical Mechanics*, Second. ed. Springer, 1989.
+
+:orange_book: J. E. Marsden, [Lectures on Mechanics](https://authors.library.caltech.edu/21546/1/lom.pdf), Cambridge University Press, 1992.
+
+:orange_book: J. E. Marsden and T. S. Ratiu, Introduction to Mechanics and Symmetry: A Basic Exposition of Classical Mechanical Systems, third ed., New York: Springer-Verlag, 1999.
+
+:orange_book: D. D. Holm, T. Schmah, and C. Stoica, [Geometric Mechanics and Symmetry: From Finite to Infinite Dimensions](http://wwwf.imperial.ac.uk/~dholm/classnotes/GMS-FinalMar09.pdf), Oxford University Press, 2009.
+
+:orange_book: Tudor Ratiu. [A Crash Course in Geometric Mechanics](https://cel.archives-ouvertes.fr/cel-00391890/document), third cycle. Monastir (Tunisie), 2005
+
+:orange_book: R. Abraham and J. E. Marsden, [Foundations of Mechanics](https://authors.library.caltech.edu/25029/1/FoM2.pdf), second ed., Addison-Wesley Publishing Company, Inc., 1978.
