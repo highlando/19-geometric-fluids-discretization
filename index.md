@@ -117,4 +117,6 @@ Develop an implementation of the technique proposed by Elcott et al. [2007]
 
 :orange_book: E. Hairer, C. Lubich, and G. Wanner, *Geometric Numerical Integration*, Second ed. Springer-Verlag, 2006.
 
+:page_facing_up: J. E. Marsden and M. West, *Discrete Mechanics and Variational Integrators*, Acta Numer., vol. 10, pp. 357–515, 2001.
+
 :page_facing_up: A. Stern and M. Desbrun, [Discrete Geometric Mechanics for Variational Time Integrators](http://www.geometry.caltech.edu/pubs/SD06.pdf), in SIGGRAPH ’06: ACM SIGGRAPH 2006 Courses., 2006.
