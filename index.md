@@ -73,6 +73,8 @@ Optional: Also develop the connection to the work by [Chern et al. 2016].
 
 Develop an implementation of the algorithm proposed by Liu et al. [2015].
 
+:page_facing_up: B. Liu, G. Mason, J. Hodgson, Y. Tong, and M. Desbrun, *Model-reduced variational fluid simulation*, ACM Trans. Graph., vol. 34, no. 6, pp. 1–12, Oct. 2015.
+
 :page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983.
 
 :page_facing_up: T. de Witt, C. Lessig, and E. Fiume, *Fluid Simulation Using Laplacian Eigenfunctions,* ACM Trans. Graph., vol. 31, no. 1, pp. 1–11, Jan. 2012.
