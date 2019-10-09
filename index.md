@@ -73,6 +73,8 @@ Optional: Also develop the connection to the work by [Chern et al. 2016].
 
 Develop an implementation of the algorithm proposed by Liu et al. [2015].
 
+:page_facing_up: B. Liu, G. Mason, J. Hodgson, Y. Tong, and M. Desbrun, *Model-reduced variational fluid simulation*, ACM Trans. Graph., vol. 34, no. 6, pp. 1–12, Oct. 2015.
+
 :page_facing_up: J. E. Marsden and A. Weinstein, *Coadjoint orbits, vortices, and Clebsch variables for incompressible fluids,* Phys. D Nonlinear Phenom., vol. 7, no. 1–3, pp. 305–323, May 1983. [[pdf]](http://www.cds.caltech.edu/~marsden/bib/1983/05-MaWe1983/MaWe1983.pdf)
 
 :page_facing_up: T. de Witt, C. Lessig, and E. Fiume, *Fluid Simulation Using Laplacian Eigenfunctions,* ACM Trans. Graph., vol. 31, no. 1, pp. 1–11, Jan. 2012. [[pdf]](http://www.dgp.toronto.edu/~tyler/fluids/FluidDynamicsLaplacianEigenfunctions.pdf)
@@ -110,3 +112,11 @@ Develop an implementation of the technique proposed by Elcott et al. [2007]
 :orange_book: Tudor Ratiu. [A Crash Course in Geometric Mechanics](https://cel.archives-ouvertes.fr/cel-00391890/document), third cycle. Monastir (Tunisie), 2005
 
 :orange_book: R. Abraham and J. E. Marsden, [Foundations of Mechanics](https://authors.library.caltech.edu/25029/1/FoM2.pdf), second ed., Addison-Wesley Publishing Company, Inc., 1978.
+
+:orange_book: J. E. Marsden, T. S. Ratiu, and R. Abraham, *Manifolds, Tensor Analysis, and Applications*, Third ed., New York: Springer-Verlag, 2004.
+
+:orange_book: E. Hairer, C. Lubich, and G. Wanner, *Geometric Numerical Integration*, Second ed. Springer-Verlag, 2006.
+
+:page_facing_up: J. E. Marsden and M. West, *Discrete Mechanics and Variational Integrators*, Acta Numer., vol. 10, pp. 357–515, 2001.
+
+:page_facing_up: A. Stern and M. Desbrun, [Discrete Geometric Mechanics for Variational Time Integrators](http://www.geometry.caltech.edu/pubs/SD06.pdf), in SIGGRAPH ’06: ACM SIGGRAPH 2006 Courses., 2006.
