@@ -7,11 +7,11 @@ Seminar - <br> Geometric formulations of inviscid fluids and their discretizatio
 
 Lecturer: [Jan Heiland](http://janheiland.de), [Christian Lessig](http://graphics.cs.uni-magdeburg.de/)
 
-This seminar in the [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052)
+This seminar in the [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=148544)
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
-| Wednesday | 11:00-13:00 | G05-122 |
+| Wednesday | 11:00-13:00 | G2-20 |
 
 Consultation hours: Please make an appointment by email.
 
