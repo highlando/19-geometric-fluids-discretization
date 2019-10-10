@@ -15,7 +15,15 @@ This seminar in the [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status
 
 Consultation hours: Please make an appointment by email.
 
+## Introduction
 
+Curiously, the geometrical description that is closely connected with *Hamilton's principle* or *Langrange's variational formulation* and that is commonly used to model mechanical systems like a pendulum also applies to the equations of fluid motion.
+
+Standard numerical methods for continuous dynamical systems destroy the geometric structures of these systems. Practically, this means that physical invariants like the energy or the momentum are lost in the discrete model.
+
+In this seminar, we will study the systematic construction of structure preserving methods that remedy this deficiency. After studying in detail the pendulum to introduce the mathematical and numerical formulation, we will consider the Euler equation for ideal fluids, a system that exhibits both the elegance and complexity of the subject.
+
+Later on, we will address both classical and recent related research topics.
 
 ## Topics
 
