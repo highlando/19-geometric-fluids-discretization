@@ -25,6 +25,11 @@ In this seminar, we will study the systematic construction of structure preservi
 
 Later on, we will address both classical and recent related research topics.
 
+As a motivating example we will consider the time integration for a simple pendulum and how its energy is preserved during the time stepping. For that we compare the *symplectic Euler* scheme (which is of 1st order) to *the Runge-Kutta* scheme (which is of 4th order). Please have a look at the basic [python implementation](content/pendulum_simple.py).
+
+![phase portrait](content/phaseportrait.png)
+![long time energy](content/longtimeenergy.png)
+
 ## Topics
 
 ### Variational formulation of ideal fluid
